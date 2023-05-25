@@ -347,7 +347,7 @@ a:hover {
 }
 
 .back {
-     background-color: blue;
+     background-color: black;
      background-image: url("../cover.jpg");
      background-size: cover;
      background-repeat: no-repeat;
@@ -374,7 +374,7 @@ a:hover {
      text-align: center;  
      justify-content: center;
      background-color: rgba(0, 0, 0, 0.534);
-     width: 50%;
+     width: 70%;
      height: 60vh;
      
 }
